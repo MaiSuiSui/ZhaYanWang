@@ -8,7 +8,6 @@ class App extends Component {
           <h1>哈哈哈哈</h1>
           <p>nihao</p>
           <span>suisui</span>
-          <span>suisui</span>
       </div>
     );
   }
